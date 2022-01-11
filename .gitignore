@@ -1,0 +1,16 @@
+# Project exclude paths
+/.gradle/
+/Learning Progress Tracker/task/build/
+/Learning Progress Tracker (2)/task/build/
+/Learning Progress Tracker (2)/task/out/
+/Learning Progress Tracker (2)/task/out/production/classes/
+/Topics/Integer types and operations/Reversing/out/
+/Topics/Integer types and operations/Reversing/out/production/classes/
+/Topics/Parameterized test/Palindromes/out/
+/Topics/Parameterized test/Palindromes/out/production/classes/
+/Topics/Queue and Stack/Greedy load balance/out/
+/Topics/Queue and Stack/Greedy load balance/out/production/classes/
+/Topics/Queue and Stack/Html Parser/out/
+/Topics/Queue and Stack/Html Parser/out/production/classes/
+/Topics/Queue and Stack/The LIFO principle in action/out/
+/Topics/Queue and Stack/The LIFO principle in action/out/production/classes/

@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class TestHelper {
+        public static int[] primeGenerator() {
+            // your code here
+            return null;
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12884#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Thu, 06 Jan 2022 19:54:48 UTC
+record: -1

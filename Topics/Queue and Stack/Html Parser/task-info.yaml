@@ -1,0 +1,28 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3658#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:13: error: ';' expected
+                boolean closingTag= false:
+                                         ^
+    Main.java:14: error: '(' expected
+                if
+                  ^
+    Main.java:15: error: illegal start of expression
+            }
+            ^
+    3 errors
+  time: Tue, 04 Jan 2022 19:42:12 UTC
+record: -1
